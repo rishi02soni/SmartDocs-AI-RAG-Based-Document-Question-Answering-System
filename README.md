@@ -54,4 +54,29 @@ https://ollama.com
 ```
 ollama pull llama3
 ```
+# Run Project
+```
+streamlit run app.py
+```
+# How It Works
+- User uploads a file
+- Text is extracted from document
+- Content is split into chunks
+- Embeddings are created
+- Stored in FAISS vector DB
+- User asks question
+- Relevant chunks retrieved
+- LLM generates final answer
 
+# Future Improvements
+- Chat memory
+- Multi-document support
+- Authentication
+- Dark mode UI
+- Deployment on cloud
+- Export answers
+
+# Author
+```
+rishi02soni
+```
