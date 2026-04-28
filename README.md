@@ -34,3 +34,4 @@ smartdocs-ai/
 │── data/
 
 ```
+Installation
