@@ -26,11 +26,11 @@ Built using:
 ---
 
 # Project Structure
-
 ```
 smartdocs-ai/
 │── app.py
 │── requirements.txt
 │── README.md
 │── data/
+
 ```
