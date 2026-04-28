@@ -35,3 +35,4 @@ smartdocs-ai/
 
 ```
 # Installation
+> 1 Clone Repository
