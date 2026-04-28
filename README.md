@@ -40,4 +40,18 @@ smartdocs-ai/
 git clone https://github.com/yourusername/smartdocs-ai.git
 cd smartdocs-ai
 ```
+> 2 Install Dependencies
+```
+pip install -r requirements.txt
+```
+> 3 Install Ollama
+
+### Download Ollama:
+```
+https://ollama.com
+
+Then install model:
+
+ollama pull llama3
+```
 
