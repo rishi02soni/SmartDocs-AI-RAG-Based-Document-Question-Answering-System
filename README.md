@@ -36,3 +36,5 @@ smartdocs-ai/
 ```
 # Installation
 > 1 Clone Repository
+git clone https://github.com/yourusername/smartdocs-ai.git
+cd smartdocs-ai
