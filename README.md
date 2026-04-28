@@ -40,3 +40,4 @@ smartdocs-ai/
 git clone https://github.com/yourusername/smartdocs-ai.git
 cd smartdocs-ai
 ```
+---
