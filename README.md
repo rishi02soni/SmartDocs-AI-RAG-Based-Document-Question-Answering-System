@@ -49,9 +49,9 @@ pip install -r requirements.txt
 ### Download Ollama:
 ```
 https://ollama.com
-
-Then install model:
-
+```
+### Then install model:
+```
 ollama pull llama3
 ```
 
