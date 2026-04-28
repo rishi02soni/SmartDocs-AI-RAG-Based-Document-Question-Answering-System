@@ -6,7 +6,7 @@ from langchain.document_loaders import PyPDFLoader, TextLoader
 from langchain.chains.question_answering import load_qa_chain
 from langchain.llms import Ollama
 import os
-
+ 
 st.set_page_config(page_title="SmartDocs AI", layout="wide")
 
 st.title("📚 SmartDocs AI - RAG Chatbot")
